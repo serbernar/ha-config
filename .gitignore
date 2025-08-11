@@ -1,0 +1,11 @@
+.storage/
+.cloud/
+.translations/
+home-assistant_v2.db*
+*.log
+.HA_VERSION
+.uuid
+secrets.yaml
+backups/
+zigbee2mqtt/state.json
+.DS_Store
