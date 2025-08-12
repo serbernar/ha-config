@@ -9,3 +9,7 @@ secrets.yaml
 backups/
 zigbee2mqtt/state.json
 .DS_Store
+*.log.*
+.vscode/
+__pycache__/
+*.pyc
