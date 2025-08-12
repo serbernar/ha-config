@@ -14,5 +14,4 @@ http:
   trusted_proxies:
     - 127.0.0.1
     - 172.30.33.0/24 # мережа аддонів
-external_url: "https://serbernar.uk"
-internal_url: "http://homeassistant.local:8123"
+
